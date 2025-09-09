@@ -1,0 +1,1 @@
+const API_BASE_URL = '[https://pic.exosferazone.com/](https://pic.exosferazone.com/)';
